@@ -21,6 +21,14 @@ Understanding these patterns helps the business focus marketing efforts on the m
 
 ---
 
+## Dataset
+
+The dataset used for this project can be downloaded here:
+
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?resource=download
+
+-----
+
 ## Dashboard Preview
 
 ![00ffd6b1-1](https://github.com/user-attachments/assets/3119e776-74b1-4509-bfd1-b3aa2bb49e4c)
