@@ -136,18 +136,3 @@ The analysis revealed several important findings:
 - Revenue trends fluctuate across months and years.
 - Customer segmentation can significantly improve targeted marketing strategies.
 
----
-
-## Repository Structure
-
-customer-segmentation-dashboard  
-│  
-├── README.md  
-├── sql  
-│   ├── data_cleaning.sql  
-│   ├── rfm_analysis.sql  
-│   ├── customer_segments.sql  
-│   └── monthly_revenue.sql  
-│  
-├── dashboard  
-│   └── dashboard.png  
